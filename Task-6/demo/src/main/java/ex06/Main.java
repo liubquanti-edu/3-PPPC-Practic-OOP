@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.*;
 
-public class ParallelProcessingDemo {
+public class Main {
 
     public static void main(String[] args) {
         List<Integer> data = new ArrayList<>();
