@@ -13,7 +13,6 @@ public class EnergyCalculator {
         return result;
     }
 
-    // Додано метод, який створює об'єкт SomeNewClass
     public SomeNewClass createSomeNewClass(String data) {
         return new SomeNewClass(data);
     }

@@ -42,7 +42,6 @@ public class Calc {
         is.close();
     }
 
-    // Фабричний метод для створення різних класів, що реалізують інтерфейс Displayable
     public Displayable createDisplayable() {
         return new Displayable() {
             @Override
